@@ -1,2 +1,2 @@
 # Fresh-You
-Project:-  E-commerce website for selling Fresh Fruits and Vegetables 
+Project:-  E-commerce website for selling Fresh Fruits and Vegetables.
